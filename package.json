@@ -1,0 +1,8 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wangbin0422/node-server.git",
+  "author": "wangbin0422 <wangbin@caicloud.io>",
+  "license": "MIT"
+}
